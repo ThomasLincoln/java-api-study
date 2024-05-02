@@ -1,13 +1,13 @@
-package io.github.thomaslincoln.travelsjavaapi;
+package io.thomaslincoln.apirestfuljava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TravelsJavaApiApplication {
+public class ApiRestfulJavaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TravelsJavaApiApplication.class, args);
+		SpringApplication.run(ApiRestfulJavaApplication.class, args);
 	}
 
 }

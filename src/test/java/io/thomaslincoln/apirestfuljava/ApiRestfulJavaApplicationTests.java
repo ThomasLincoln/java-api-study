@@ -1,10 +1,10 @@
-package io.github.thomaslincoln.travelsjavaapi;
+package io.thomaslincoln.apirestfuljava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TravelsJavaApiApplicationTests {
+class ApiRestfulJavaApplicationTests {
 
 	@Test
 	void contextLoads() {
