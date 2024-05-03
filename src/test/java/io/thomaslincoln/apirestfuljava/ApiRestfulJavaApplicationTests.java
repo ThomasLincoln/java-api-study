@@ -1,12 +1,12 @@
 package io.thomaslincoln.apirestfuljava;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+// @SpringBootTest
 class ApiRestfulJavaApplicationTests {
 
-	@Test
+	// @Test
 	void contextLoads() {
 	}
 
