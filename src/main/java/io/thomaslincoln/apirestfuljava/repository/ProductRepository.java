@@ -1,8 +1,8 @@
 package io.thomaslincoln.apirestfuljava.repository;
 
-import io.thomaslincoln.apirestfuljava.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
+import io.thomaslincoln.apirestfuljava.model.Product;
 
-public interface ProductRepository extends JpaRepository<Product, Long>{
+public interface ProductRepository extends JpaRepository<Product, Long> {
 
 }
